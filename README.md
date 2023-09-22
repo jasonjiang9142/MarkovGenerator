@@ -45,6 +45,6 @@ generate_text(word_dict, 20)
   git clone https://github.com/jasonjiang9142/MarkovGenerator.git
   ```
 
-- **2: Just run the program in any Virtual Environement** 
+- **2: Just run the program in any Virtual Environment** 
 
 
